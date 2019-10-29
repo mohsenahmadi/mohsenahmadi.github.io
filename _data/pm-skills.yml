@@ -1,0 +1,23 @@
+- name: Product Management
+  percentage: 70
+  color: info
+
+- name: Project Management
+  percentage: 80
+  color: success
+
+- name: Analytical Skills
+  percentage: 70
+  color: info
+
+- name: BI
+  percentage: 50
+  color: info
+
+- name: Agile methodologies
+  percentage: 80
+  color: success
+
+- name: Integration
+  percentage: 85
+  color: success

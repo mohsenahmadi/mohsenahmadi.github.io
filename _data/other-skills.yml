@@ -1,0 +1,23 @@
+- name: Leadership
+  percentage: 75
+  color: info
+
+- name: Team Working
+  percentage: 90
+  color: success
+
+- name: Team Building
+  percentage: 75
+  color: info
+
+- name: Communication
+  percentage: 85
+  color: success
+
+- name: Customer Care
+  percentage: 90
+  color: success
+
+- name: Supportive
+  percentage: 90
+  color: success
