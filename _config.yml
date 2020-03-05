@@ -1,7 +1,7 @@
 # Site settings
 title: Mohsen Ahmadi, PM, PSMI
 description: >- # this means to ignore newlines until "baseurl:"
-  Agile Product Manager, Python Lover, Scrum Master, Coffee Addiction, Project Manager, Have a Big Dream, Workout, Nutella, Workout, Travel. Agile Coach, Startup's Mentor
+  Agile Product Manager, Python Lover, Scrum Master, Coffee Addiction, Project Manager, Have a Big Dream, Nutella, Workout, Travel. Agile Coach, Startup's Mentor, Back Packer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ahmadi.pm" # the base hostname & protocol for your site, e.g. http://example.com
 repository: mohsenahmadi/mohsenahmadi.github.io
@@ -36,7 +36,7 @@ defaults:
 # Posts default Permalink
 permalink: articles/:title
 
-url: "https://ahmadi.space" # the base hostname & protocol for your site
+url: "https://ahmadi.pm" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
