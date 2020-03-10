@@ -1,19 +1,19 @@
 # Site settings
-title: Mohsen Ahmadi, PM, PSMI
+title: Mohsen Ahmadi, Product Manager
 description: >- # this means to ignore newlines until "baseurl:"
-  Agile Product Manager, Python Lover, Scrum Master, Coffee Addiction, Project Manager, Have a Big Dream, Nutella, Workout, Travel. Agile Coach, Startup's Mentor, Back Packer
+  Agile Product Manager, Agile Product/Project Manager and Scrum Master, with the successful product/project management history. Highly skilled in collaborating with team members to achieve business and financial goals. Also, Python Lover, Coffee Addict, Have a Big Dream, Nutella, Workout, Travel and Backpacker
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ahmadi.pm" # the base hostname & protocol for your site, e.g. http://example.com
 repository: mohsenahmadi/mohsenahmadi.github.io
 
 # Build settings
 markdown: kramdown
-remote_theme: YoussefRaafatNasry/portfolYOU
+remote_theme: YoussefRaafatNasry/portfolYOU@v2.2.2
 
 # Author Info
 author:
   name     : Mohsen Ahmadi
-  image    : https://ahmadi.pm/assets/profile.jpg
+  image    : https://ahmadi.pm/assets/mohsen.jpeg
   github   : mohsenahmadi
   twitter  : usdimo
   linkedin : mohsenahmadii
