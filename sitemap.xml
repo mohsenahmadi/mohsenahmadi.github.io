@@ -3,7 +3,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/articles/attention-niko-niko-calendar-its-important-to-any-agile-teams</loc>
+      <loc>https://ahmadi.pm/articles/attention-niko-niko-calendar-its-important-to-any-agile-teams</loc>
       
         <lastmod>2018-08-11T00:00:00+04:30</lastmod>
       
@@ -18,7 +18,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/articles/as-a-product-or-project-manager-you-should-do-these-works-weekly</loc>
+      <loc>https://ahmadi.pm/articles/as-a-product-or-project-manager-you-should-do-these-works-weekly</loc>
       
         <lastmod>2018-02-17T00:00:00+03:30</lastmod>
       
@@ -33,7 +33,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/articles/what-does-do-product-managers</loc>
+      <loc>https://ahmadi.pm/articles/what-does-do-product-managers</loc>
       
         <lastmod>2018-02-06T00:00:00+03:30</lastmod>
       
@@ -48,7 +48,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/articles/check-these-points-before-you-launch-any-product</loc>
+      <loc>https://ahmadi.pm/articles/check-these-points-before-you-launch-any-product</loc>
       
         <lastmod>2018-02-03T00:00:00+03:30</lastmod>
       
@@ -63,7 +63,7 @@
   
     
     <url>
-      <loc>http://localhost:4000/articles/a-little-light-on-black-hole</loc>
+      <loc>https://ahmadi.pm/articles/a-little-light-on-black-hole</loc>
       
         <lastmod>2017-10-24T00:00:00+03:30</lastmod>
       
@@ -79,24 +79,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/404.html</loc>
+      <loc>https://ahmadi.pm/404.html</loc>
       
-        <lastmod>2020-03-14T23:53:14+03:30</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/about/</loc>
-      
-        <lastmod>2020-03-14T23:53:14+03:30</lastmod>
+        <lastmod>2020-03-14T23:55:33+03:30</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -109,24 +94,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/articles/</loc>
+      <loc>https://ahmadi.pm/about/</loc>
       
-        <lastmod>2020-03-14T23:53:14+03:30</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/</loc>
-      
-        <lastmod>2020-03-14T23:53:14+03:30</lastmod>
+        <lastmod>2020-03-14T23:55:33+03:30</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -139,24 +109,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/projects/</loc>
+      <loc>https://ahmadi.pm/articles/</loc>
       
-        <lastmod>2020-03-14T23:53:14+03:30</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/search.json</loc>
-      
-        <lastmod>2020-03-14T23:53:14+03:30</lastmod>
+        <lastmod>2020-03-14T23:55:33+03:30</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -169,24 +124,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/sitemap.xml</loc>
+      <loc>https://ahmadi.pm/</loc>
       
-        <lastmod>2020-03-14T23:53:14+03:30</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/articles/tags</loc>
-      
-        <lastmod>2020-03-14T23:53:14+03:30</lastmod>
+        <lastmod>2020-03-14T23:55:33+03:30</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -199,24 +139,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/assets/css/style.css</loc>
+      <loc>https://ahmadi.pm/projects/</loc>
       
-        <lastmod>2020-03-14T23:53:14+03:30</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/assets/js/remote-projects.js</loc>
-      
-        <lastmod>2020-03-14T23:53:14+03:30</lastmod>
+        <lastmod>2020-03-14T23:55:33+03:30</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -229,9 +154,84 @@
   
     
     <url>
-      <loc>http://localhost:4000/feed.xml</loc>
+      <loc>https://ahmadi.pm/search.json</loc>
       
-        <lastmod>2020-03-14T23:53:14+03:30</lastmod>
+        <lastmod>2020-03-14T23:55:33+03:30</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://ahmadi.pm/sitemap.xml</loc>
+      
+        <lastmod>2020-03-14T23:55:33+03:30</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://ahmadi.pm/articles/tags</loc>
+      
+        <lastmod>2020-03-14T23:55:33+03:30</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://ahmadi.pm/assets/css/style.css</loc>
+      
+        <lastmod>2020-03-14T23:55:33+03:30</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://ahmadi.pm/assets/js/remote-projects.js</loc>
+      
+        <lastmod>2020-03-14T23:55:33+03:30</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://ahmadi.pm/feed.xml</loc>
+      
+        <lastmod>2020-03-14T23:55:33+03:30</lastmod>
       
       
         <changefreq>monthly</changefreq>
